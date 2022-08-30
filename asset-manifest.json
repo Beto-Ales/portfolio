@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5eaecff8.css",
-    "main.js": "/static/js/main.b53f78d6.js",
-    "static/media/portrait.jpeg": "/static/media/portrait.215e96386fe5f4245212.jpeg",
-    "index.html": "/index.html",
-    "main.5eaecff8.css.map": "/static/css/main.5eaecff8.css.map",
-    "main.b53f78d6.js.map": "/static/js/main.b53f78d6.js.map"
+    "main.css": "/Beto-Ales/portfolio/tree/gh-pages/static/css/main.5eaecff8.css",
+    "main.js": "/Beto-Ales/portfolio/tree/gh-pages/static/js/main.a57c2307.js",
+    "static/media/portrait.jpeg": "/Beto-Ales/portfolio/tree/gh-pages/static/media/portrait.215e96386fe5f4245212.jpeg",
+    "index.html": "/Beto-Ales/portfolio/tree/gh-pages/index.html",
+    "main.5eaecff8.css.map": "/Beto-Ales/portfolio/tree/gh-pages/static/css/main.5eaecff8.css.map",
+    "main.a57c2307.js.map": "/Beto-Ales/portfolio/tree/gh-pages/static/js/main.a57c2307.js.map"
   },
   "entrypoints": [
     "static/css/main.5eaecff8.css",
-    "static/js/main.b53f78d6.js"
+    "static/js/main.a57c2307.js"
   ]
 }
