@@ -10,31 +10,31 @@ const SectionD = () => {
                 <li><span className="lb">Web pages:</span></li>
                 <li>
                     <i className="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/WorldBaristaCup" target="_blank">World Barista Cup 2021</a>
+                    <a href="https://github.com/Beto-Ales/WorldBaristaCup" target="_blank" rel="noreferrer">World Barista Cup 2021</a>
                     /
                     <i className="fa fa-globe" aria-hidden="true"></i>
-                    <a href="https://beto-ales.github.io/WorldBaristaCup/"target="_blank">Visit Site</a>
+                    <a href="https://beto-ales.github.io/WorldBaristaCup/"target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
                 <li>
                     <i className="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/WorldBaristaCup" target="_blank">Nordic Barista Cup 2021</a>
+                    <a href="https://github.com/Beto-Ales/WorldBaristaCup" target="_blank" rel="noreferrer">Nordic Barista Cup 2021</a>
                     /
                     <i className="fa fa-globe" aria-hidden="true"></i>
-                    <a href="https://beto-ales.github.io/nordic-barista-cup/"target="_blank">Visit Site</a>
+                    <a href="https://beto-ales.github.io/nordic-barista-cup/"target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
                 <li>
                     <i className="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/TelmoreWebsite" target="_blank">Telmore Website</a>
+                    <a href="https://github.com/Beto-Ales/TelmoreWebsite" target="_blank" rel="noreferrer">Telmore Website</a>
                     /
                     <i className="fa fa-globe" aria-hidden="true"></i>
-                    <a href="https://beto-ales.github.io/TelmoreWebsite/"target="_blank">Visit Site</a>
+                    <a href="https://beto-ales.github.io/TelmoreWebsite/"target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
                 <li>
                     <i className="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/NiceVeryNiceWebsite" target="_blank">Nice, Very Nice Website</a>
+                    <a href="https://github.com/Beto-Ales/NiceVeryNiceWebsite" target="_blank" rel="noreferrer">Nice, Very Nice Website</a>
                     /
                     <i className="fa fa-globe" aria-hidden="true"></i>
-                    <a href="https://beto-ales.github.io/NiceVeryNiceWebsite/"target="_blank">Visit Site</a>
+                    <a href="https://beto-ales.github.io/NiceVeryNiceWebsite/"target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
                                     
             </ul>
@@ -42,11 +42,11 @@ const SectionD = () => {
             <ul>
                 <li><span className="lb">Web applications:</span></li>
                 <li>
-                    <i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/backend-shopping-list"target="_blank">Full Stack MERN Shopping Web App</a>
+                    <i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/backend-shopping-list"target="_blank" rel="noreferrer">Full Stack MERN Shopping Web App</a>
                     /
-                    <i className="fab fa-react"></i> <a href="https://portfolio-2022-shopping.herokuapp.com/" target="_blank">Visit Site</a>
+                    <i className="fab fa-react"></i> <a href="https://portfolio-2022-shopping.herokuapp.com/" target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
-                <li><i className="fab fa-github"></i> <a href="https://beto-ales.github.io/BallPassesCounterWebApp/"target="_blank">JavaScript Trainning Web App</a></li>
+                <li><i className="fab fa-github"></i> <a href="https://beto-ales.github.io/BallPassesCounterWebApp/"target="_blank" rel="noreferrer">JavaScript Trainning Web App</a></li>
                 {/* <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/time-card-project" target="_blank">Full Stack MERN Time Card Web App</a></li>
                 <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/backend-gym" target="_blank">Full Stack MERN Gym Web App (Backend)</a></li>
                 <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/full-stack-notes" target="_blank">Full Stack MERN Notes Web App</a></li>
@@ -62,8 +62,8 @@ const SectionD = () => {
              {/* <!-- C# console application --> */}
             <ul>
                 <li><span className="lb">C# console applications:</span></li>
-                <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/lyricsSlide"target="_blank">GitHub Lyrics Slide C# Console App</a></li>
-                <li><i className="fab fa-github"></i><a href="https://github.com/Beto-Ales/GuessGame"target="_blank">GitHub Guess Game C# Console App</a></li>
+                <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/lyricsSlide"target="_blank" rel="noreferrer">GitHub Lyrics Slide C# Console App</a></li>
+                <li><i className="fab fa-github"></i><a href="https://github.com/Beto-Ales/GuessGame"target="_blank" rel="noreferrer">GitHub Guess Game C# Console App</a></li>
             </ul>   
         </div>
     </div>

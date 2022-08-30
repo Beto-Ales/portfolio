@@ -26,7 +26,7 @@ const Header = () => {
 
           </p>
 
-          <img src={picture} alt="PROFILE PICTURE" />
+          <img src={picture} alt="Alberto Alesandroni" />
           
         </div>
         
