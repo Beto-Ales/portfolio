@@ -44,7 +44,7 @@ const SectionD = () => {
                 <li>
                     <i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/backend-shopping-list"target="_blank" rel="noreferrer">Full Stack MERN Shopping Web App</a>
                     /
-                    <i className="fab fa-react"></i> <a href="https://portfolio-2022-shopping.herokuapp.com/" target="_blank" rel="noreferrer">Visit Site</a>
+                    <i className="fab fa-react"></i> <a href="https://shopping-list-nkpy.onrender.com/" target="_blank" rel="noreferrer">Visit Site</a>
                 </li>
                 <li><i className="fab fa-github"></i> <a href="https://beto-ales.github.io/BallPassesCounterWebApp/"target="_blank" rel="noreferrer">JavaScript Trainning Web App</a></li>
                 {/* <li><i className="fab fa-github"></i> <a href="https://github.com/Beto-Ales/time-card-project" target="_blank">Full Stack MERN Time Card Web App</a></li>
