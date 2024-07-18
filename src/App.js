@@ -6,6 +6,8 @@ import SectionA from './components/SectionA'
 import SectionB from './components/SectionB'
 import SectionC from './components/SectionC'
 import SectionD from './components/SectionD'
+import SectionE from './components/SectionE'
+import SectionF from './components/SectionF'
 import Footer from './components/Footer'
 
 
@@ -16,7 +18,9 @@ const App = () => (
       <SectionA />
       <SectionB />
       <SectionC />
-      <SectionD />      
+      <SectionD />
+      <SectionE />
+      <SectionF />
     </div>
     <Footer />
   </div>

@@ -21,6 +21,8 @@
 h1,
 h2,
 h3,
+h4,
+h5,
 p,
 ul,
 a {
@@ -41,11 +43,20 @@ h2 {
 h3 {
   margin-top: 0;
   font-size: 1.287em;
+}
 
+h4 {
+  font-size: 1.187em;
+  margin: 0.4em 0;
+}
+
+h5 {
+  font-size: 1.1em;
+  margin: 0.2em 0;
 }
 
 p {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 a {
@@ -59,15 +70,15 @@ a:hover {
   font-size: 1.15em;
 }
 
-p,
+/* p,
 ul {
   font-size: 1.2em;
-}
+} */
 
 /* paragraph inside personal profile section */
-.personal-profile p {
+/* .professional-summary p {
   padding: 1em;
-}
+} */
 
 /* set all the unorder list */
 ul {
@@ -109,7 +120,7 @@ li {
 /* profile picture */
 img {
   clip-path: circle(47%);
-  max-width: 30%;
+  max-width: 20%;
   grid-area: a;
   margin: auto;
 }
@@ -123,12 +134,14 @@ img {
 
 /* padding to all sections */
 .header-text,
-.personal-profile,
+.professional-summary,
 .education,
+.interpersonal-skills,
 .skills,
-.experience,
-.footerContainer {
-  padding: 5em 0;
+.project-links,
+.professional-experience,
+.projects {
+  padding: 1em;
 }
 
 /* set the background color to all the sections
@@ -136,36 +149,67 @@ img {
 
 .header {
   background-color: #313747;
+  /* background-color: #003856; */
 }
 
-.personal-profile {
-  background-color: #355456;
+.professional-summary {
+  /* background-color: #355456; */
+  background-color: #05556F;
+  background-color: #05556F;
 }
 
 .education {
-  background-color: #4D868F;
+  /* background-color: #4D868F; */
+  background-color: #84869B;
+  background-color: #5a5b6a;
+}
+
+.interpersonal-skills {
+  /* background-color: #51666f; */
+  background-color: #849E8A;
+  background-color: #56675a;
 }
 
 .skills {
-  background-color: #51666f;
+  /* background-color: #596367; */
+  background-color: #D7CFA1;
+  background-color: #757156;
 }
 
-.experience {
-  background-color: #596367;
+.project-links {
+  /* background-color: #596367; */
+  background-color: #1f2b26;
+  background-color: #1f2b26;
 }
 
-.footerContainer {
+.professional-experience {
+  /* background-color: #596367; */
+  background-color: #445446;
+}
+
+.projects {
+  /* background-color: #596367; */
+  background-color: #445446;
+}
+
+.footer-container {
   background-color: #605f5e;
+  /* background-color: #a19fbe; */
+  padding: 1em 0;
 }
+
+/* skills */
 
 /* set of styles for medium and big screen size */
-@media only screen and (min-width: 44.375em) {
+/* @media only screen and (min-width: 44.375em) { */
+@media only screen and (min-width: 1000px) {
   .article {
     display: grid;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: max-content;
     grid-template-areas: "a b"
-      "c d";
+                         "c d"
+                         "e f";
   }
 
   .a {
@@ -176,6 +220,8 @@ img {
   .b {
     grid-area: b;
     background-color: #51666f;
+    display: flex;
+    justify-content: center;
   }
 
   .c {
@@ -188,22 +234,61 @@ img {
     background-color: #51666f;
   }
 
-  .skills {
+  .e {
+    grid-area: e;
     background-color: #355456;
   }
 
-  .experience {
+  .f {
+    grid-area: f;
     background-color: #51666f;
+  }
+
+  .a, .b, .c, .d, .e, .f, .footer-container {
+    border-bottom: solid 1px #313747;
+    padding: 1em 0;
+  }
+
+  /* .a, .b, .c, .d, .e, .f {
+    padding: 1em;
+  } */
+
+  .professional-summary,
+  .education,
+  .interpersonal-skills,
+  .skills,
+  .project-links,
+  .professional-experience,
+  .projects {
+    background-color: inherit;
+  }
+  
+  .skills {
+    background-color: #51666f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .interpersonal-skills {
+    background-color: #355456;
+  }
+
+  .interpersonal-skills-list {
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    /* border: solid 1px; */
+    padding: 1em;
+  }
+
+  /* skills links */
+  .skills li {
+    height: 1em;
   }
 
   .education {
     background-color: #51666f;
   }
-
-  /* experience links */
-  .experience li {
-    height: 1em;
-  }
-
 
 }

@@ -3,7 +3,7 @@ import React from 'react'
 const SectionC = () => {
   return (
     <div className='c'>
-        <div className="skills">
+        <div className="interpersonal-skills">
             <h3>INTERPERSONAL SKILLS</h3>
             <ul>
                 <li>Learning driven</li>
