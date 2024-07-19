@@ -10,32 +10,20 @@ const SectionE = () => {
                 <li>
                     <i class="fab fa-github"></i>
                     <a href="https://github.com/Beto-Ales/time-card-project" target="_blank" rel="noreferrer">Full Stack MERN Time Card Web App </a>
+                    /
                     <a href="https://fullstack-timecard-backend.onrender.com/" target="_blank" rel="noreferrer"> Visit Site</a>
                 </li>
                 <li>
                     <i class="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/frontend-shopping-list" target="_blank" rel="noreferrer">Full Stack MERN Shopping list (Frontend) </a>
+                    <a href="https://github.com/Beto-Ales/mern-shopping-list" target="_blank" rel="noreferrer">Full Stack MERN Shopping list </a>
+                    /
                     <a href="https://shopping-list-nkpy.onrender.com/" target="_blank" rel="noreferrer"> Visit Site</a>
                 </li>
-                <li><i class="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/fullstack-blog-excercise" target="_blank" rel="noreferrer">GitHub Node.js Jest.js Blog (Backend)</a></li>
-                <li><i class="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/fullstack-timecard-backend" target="_blank" rel="noreferrer">Full Stack MERN Time Card Web App</a>
-                </li>
                 <li>
                     <i class="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/backend-shopping-list" target="_blank" rel="noreferrer">Full Stack MERN Shopping Web App </a>
+                    <a href="https://github.com/Beto-Ales/BallPassesCounterWebApp/" target="_blank" rel="noreferrer">Vanilla JavaScript Training Web App </a>
                     /
-                    <i class="fab fa-react"></i>
-                    <a href="https://portfolio-2022-shopping.herokuapp.com/" target="_blank" rel="noreferrer"> Visit Site</a>
-                </li>
-                <li>
-                    <i class="fab fa-github"></i>
-                    <a href="https://github.com/Beto-Ales/full-stack-notes" target="_blank" rel="noreferrer">Full Stack MERN Notes Web App</a>
-                </li>
-                <li>
-                    <i class="fab fa-github"></i>
-                    <a href="https://beto-ales.github.io/BallPassesCounterWebApp/" target="_blank" rel="noreferrer">JavaScript Trainning Web App</a>
+                    <a href="https://beto-ales.github.io/BallPassesCounterWebApp/" target="_blank" rel="noreferrer"> Visit Site</a>
                 </li>
             
             </ul>

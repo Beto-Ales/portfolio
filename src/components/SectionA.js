@@ -9,7 +9,7 @@ const calculateExperience = (startDate) => {
 }
 
 const SectionA = () => {
-  const experienceStartDate = '2023-02-01' // Example start date (YYYY-MM-DD format)
+  const experienceStartDate = '2022-02-01' // Example start date (YYYY-MM-DD format)
   const experience = calculateExperience(experienceStartDate)
   return (
     <div className='a'>

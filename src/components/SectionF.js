@@ -19,15 +19,16 @@ const SectionF = () => {
         </div>
         <div className='projects'>
           {/* <h3>PROJECTS</h3> */}
-          <h4>REAL ESTATE MANAGEMENT SYSTEM</h4>
+          {/* <h4>REAL ESTATE MANAGEMENT SYSTEM</h4> */}
+          <h4>FULL STACK DEVELOPER</h4>
           <h5>APARTMENT IN COPENHAGEN</h5>
           <p>Copenhagen, Denmark.</p>
-          <p>July 2024 - Present.</p>
+          <p>July 2022 - Present.</p>
 
-          <p>Developed a web application for a real estate company to track employee working hours.<br/>
-          Implemented functionalities for employees to log work hours, descriptions, and timestamps.<br/>
-          Created a comprehensive reporting system for the boss to view employee hours, categorize by holidays, and calculate pay based on time ranges.<br/>
-          Technologies: MERN Stack (MongoDB, Express, React, Node.js).</p>
+          <p>Develop a comprehensive web application for a real estate company to track employee working hours.<br/>
+          Implement functionalities for employees to log work hours, provide job descriptions, and record start and end times.<br/>
+          Create a comprehensive reporting system enabling managers to view employee hours, categorize them by holidays, and calculate pay based on various time ranges and conditions.<br/>
+          Technologies: Utilize the MERN Stack (MongoDB, Express, React, Node.js) for efficient, scalable, and high-performance application development.</p>
         </div>
     </div>
   )
